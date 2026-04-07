@@ -2,7 +2,7 @@
 
 return [
     'host' => 'localhost',
-    'dbname' => 'db_perpustakaan',
+    'dbname' => 'db_buku',
     'username' => 'root',
     'password' => ''
 ];

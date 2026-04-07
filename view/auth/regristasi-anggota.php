@@ -6,9 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="" method="post">
+    <form action="/store-user" method="post">
         <span>Username Anda<input type="text" name="username" id="" placeholder="Masukkan Username Anda" required></span>
-         <span>Username Anda<input type="text" name="username" id="" placeholder="Masukkan Username Anda" required></span>
+         <span>Password Anda<input type="text" name="password" id="" placeholder="Masukkan Username Anda" required></span>
          <button type="submit">Klik Saya</button>
     </form>
 </body>
